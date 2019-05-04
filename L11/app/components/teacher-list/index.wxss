@@ -1,0 +1,5 @@
+/* components/teacher-list/index.wxss */
+
+.rotate{
+  width: 190rpx;
+}

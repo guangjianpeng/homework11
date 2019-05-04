@@ -1,0 +1,71 @@
+<!--app/components/detail/index.wxml-->
+<view class='all'>
+
+  <!-- 顶部 -->
+  <view class='top'>
+    <image src='/images/cad.jpg'></image>
+  </view>
+
+  <!-- 目录 -->
+  <view class='nav'>
+    <view>详情</view>
+    <view>目录</view>
+  </view>
+
+  <view class='navs clear'>
+    <view>模具CAD(陈）</view>
+    <view>购买人数：999</view>
+    <view>课时数：96</view>
+    <view>¥4000.0</view>
+    <view>课程有效期至：不限天数</view>
+  </view>
+
+  <view class='tiao'></view>
+  <view class='demo1'>
+    <view>课程介绍</view>
+    <view>模具CAD</view>
+  </view>
+
+  <view class='tiao'></view>
+  <view class='demo2 clear'>
+
+    <view class='jians'>教师介绍</view>
+    <view class='demo3'>
+      <view class='tu'>
+        <image src='/images/li.jpg'></image>
+      </view>
+
+      <view class='demo4 clear'>
+        <view>李老师</view>
+        <view>招生：999</view>
+        <view>开课 : 4</view>
+
+        <view class='demo5'>
+          <view>高级讲师</view>
+          <view>高级模具设计师</view>
+        </view>
+
+      </view>
+
+    </view>
+  </view>
+
+  <view class='tiao'></view>
+  <view class='demo6 clear'>
+    <view class='jians'>课程评价</view>
+    <view>查看更多</view>
+    <view>暂无课程评价</view>
+  </view>
+
+  <view class='dialog'>
+    <view class='optionFoo'>
+      <view class='d1'>收藏</view>
+      <view class='d2'>评价</view>
+      <view class='d3'>
+      <view>¥4000.00</view>
+      <view>购买</view>
+      </view>
+    </view>
+  </view>
+
+</view>
